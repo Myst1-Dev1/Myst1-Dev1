@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente presto serviços com Front-End.
-- 🌱 Estudando Desenvolvimento FullStack
+- 🌱 Estudando Matemática e Desenvolvimento FullStack
 - 📫 Contate-me no Email: danteopzz@hotmail.com
 
 <div>
