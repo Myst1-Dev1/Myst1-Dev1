@@ -1,7 +1,7 @@
 ## Olá Eu Sou o Myst1
 
 
-- 🔭 Atualmente estou desempregado.
+- 🔭 Atualmente presto serviços com Front-End.
 - 🌱 Estudando Desenvolvimento FullStack
 - 📫 Contate-me no Email: danteopzz@hotmail.com
 
