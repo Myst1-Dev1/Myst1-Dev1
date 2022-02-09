@@ -4,7 +4,6 @@
 - 🔭 Atualmente estou desempregado.
 - 🌱 Estudando Desenvolvimento FullStack
 - 📫 Contate-me no Email: danteopzz@hotmail.com
-- 😄 Pronomes: Ele/Dele
 
 <div>
 
