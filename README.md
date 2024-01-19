@@ -1,7 +1,7 @@
 ## Olá Eu me chamo João Victor
 
 
-- 🔭 Atualmente presto serviços com Front-End.
+- 🔭 Atualmente presto serviços como Front-End.
 - 🌱 Estudando Análise e desenvolvimento de sistemas e Desenvolvimento de software focado em Front End
 - 📫 Contate-me no Email: danteopzz@hotmail.com
 
