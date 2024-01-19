@@ -1,8 +1,8 @@
-## Olá Eu Sou o Myst1
+## Olá Eu me chamo João Victor
 
 
 - 🔭 Atualmente presto serviços com Front-End.
-- 🌱 Estudando Análise e desenvolvimento de sistemas e Desenvolvimento FullStack
+- 🌱 Estudando Análise e desenvolvimento de sistemas e Desenvolvimento de software focado em Front End
 - 📫 Contate-me no Email: danteopzz@hotmail.com
 
 <div>
