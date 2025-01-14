@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente presto serviços como Front-End.
-- 🌱 Estudando Análise e desenvolvimento de sistemas e Desenvolvimento de software focado em Front End
+- 🌱 Estudando Desenvolvimento de software focado em Front End
 - 📫 Contate-me no Email: danteopzz@hotmail.com
 
 <div>
