@@ -1,9 +1,11 @@
 ## Olá Eu me chamo João Victor
 
 
-- 🔭 Atualmente presto serviços como Front-End.
-- 🌱 Estudando Desenvolvimento de software focado em Front End
-- 📫 Contate-me no Email: danteopzz@hotmail.com
+- 🔭 Atualmente presto serviços como Desenvolvedor Full Stack.
+
+- 🌱 Estudando desenvolvimento de software com foco em Front-End, Back-End e Mobile.
+
+- ⚡ Tecnologias que venho trabalhando: HTML5, CSS3, JavaScript, React, Next.js, Node.js, TypeScript, entre outras.
 
 <div>
 
@@ -18,6 +20,9 @@
   <img align="center" alt="Myst-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Myst-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Myst-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Myst-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Myst-nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Myst-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img align="right" alt="Myst-html" src="https://123emoji.com/wp-content/uploads/2017/08/sticker-1-216.png" />
   </div>
 
