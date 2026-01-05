@@ -1,38 +1,87 @@
-## Olá Eu me chamo João Victor
+# 👋 Olá, eu sou João Victor
 
+💻 **Desenvolvedor Full Stack**  
+🎓 Graduado em **Análise e Desenvolvimento de Sistemas (2024)**  
+🚀 Apaixonado por tecnologia, construção de produtos e evolução constante.
 
-- 🔭 Atualmente presto serviços como Desenvolvedor Full Stack.
+---
 
-- 🌱 Estudando desenvolvimento de software com foco em Front-End, Back-End e Mobile.
+## 🧭 Sobre mim
 
-- ⚡ Tecnologias que venho trabalhando: HTML5, CSS3, JavaScript, React, Next.js, Node.js, TypeScript, entre outras.
+Iniciei minha jornada no desenvolvimento de software há alguns anos e desde então venho construindo minha carreira com foco em soluções modernas para web.
 
-<div>
+Em **2024**, concluí minha graduação e atuei como **estagiário Front-End**, além de desenvolver um **jogo web** como freelancer para a **Prefeitura de Tanguá**, utilizando **GameMaker**.
 
+Desde então, sigo focado em me tornar um **desenvolvedor Full Stack cada vez mais completo**, estudando arquitetura, boas práticas, performance e experiência do usuário.
+
+---
+
+## ⚡ Tecnologias & Ferramentas
+
+### 🖥️ Front-end
+Next.js • Angular • React Native • PWA
+
+### 🧠 Back-end
+Node.js • MongoDB • GraphQL • PostgreSQL
+
+### 🐳 Infraestrutura & DevOps
+Docker
+
+### 🧪 Testes
+Jest • React Testing Library
+
+### 🧩 Gerenciamento de Estado Global
+Context API • Redux • Zustand
+
+### 🧰 Ferramentas
+Git/GitHub • Figma
+
+### 🌍 CMS & SEO
+WordPress • SEO
+
+### 🗣️ Idiomas
+Inglês — leitura e compreensão
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
   <a href="https://github.com/Myst1-Dev1">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Myst1-Dev1&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myst1-Dev1&layout=compact&langs_count=16&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Myst1-Dev1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myst1-Dev1&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Myst-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Myst-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Myst-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Myst-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Myst-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Myst-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Myst-nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="Myst-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-  <img align="right" alt="Myst-html" src="https://123emoji.com/wp-content/uploads/2017/08/sticker-1-216.png" />
-  </div>
 
-  <hr>
-  <br>
-  
-  <div>
-    
-   <a href="mailto:danteopzz1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a target="_blank" href="https://www.instagram.com/jv1555_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a target="_blank" href="https://www.linkedin.com/in/myst1-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    
-  </div>
+---
+
+## 🧰 Stack Principal
+
+<div align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+</div>
+
+---
+
+## 🌎 Onde me encontrar
+
+<div align="center">
+  <a href="mailto:jvsoftdev15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/jv1555_dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/myst1-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+✨ *“Código limpo, boas ideias e evolução constante.”*
